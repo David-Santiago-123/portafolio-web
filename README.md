@@ -16,5 +16,5 @@ Hola 👋 Soy programador junior con formación en desarrollo web y experiencia 
 Actualmente estoy reforzando fundamentos de desarrollo web y construyendo proyectos prácticos para mi crecimiento profesional.
 
 ## 📫 Contacto
-- LinkedIn: (pega aquí tu enlace)
+- LinkedIn: www.linkedin.com/in/david-santiago-vergara-morales-8857273b3
 - Email: vergarita29lleme@gmail.com
